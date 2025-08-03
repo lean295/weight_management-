@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function(){})
             datasets: [{
                 lable: 'Current visits',
                 data: [20, 30, 35, 15],
-                backgroundColor: ['rgb(223, 223, 174) ']
+                backgroundColor: ['rgb(200, 101, 40) ']
             }] 
         }
     })
