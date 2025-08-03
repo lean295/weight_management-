@@ -1,4 +1,16 @@
 .custom-navbar{
 border: 1px solid black;
-border-radius: 10px
+border-radius: 10px;
+position: sticky;
+top: 0;
+z-index: 1000;
+}
+
+.navbar-brand span{
+    line-height: 1.2;
+}
+
+.custom-link.active{
+    background-color: #f0f0f0;
+    front-weight: 600;
 }
